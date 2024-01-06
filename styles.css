@@ -1,0 +1,8 @@
+body {
+    background-color: #e48cff;
+    color: #3c0015;
+}
+#map {
+    height: 80vh;
+    background-color: lightcoral;
+}
